@@ -1,13 +1,5 @@
 # 🔐 OShell — Custom Unix-Like Shell in C
 
-# Authors
-
-- MINTESINOT WUBISHET
-- BEIMNET NUR
-- BONA ALEMU
-- KALKIDAN SHIFERAW
-- HABTAMU SIMON
-
 
 ## 📌 Overview
 OShell is a custom Unix-like command-line shell implemented in C.  
@@ -48,3 +40,13 @@ This project demonstrates low-level operating system concepts and provides insig
 ---
 
 ## 🛠️ Project Structure
+oshell/
+├── src/
+├── include/
+├── man/
+├── examples/
+│   └── basic.txt
+├── README.md
+├── AUTHORS.md
+├── Makefile
+├── .gitignore
