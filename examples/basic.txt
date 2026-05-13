@@ -1,0 +1,4 @@
+echo hello
+echo one ; echo two
+true && echo success
+false || echo failed
